@@ -55,7 +55,7 @@ position: fixed;
 height: 100vh;
 background: linear-gradient(#1f1e1e, #797777); 
 border-right: 3px solid rgb(161, 160, 160);
-left: -300px;
+left: -280px;
 }
 .vitnav h1{
     background: linear-gradient(90deg, #ffffff, #727272, #533e3e);
